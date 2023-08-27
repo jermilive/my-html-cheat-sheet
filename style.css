@@ -1,0 +1,65 @@
+body {
+  background-color: #fac898;
+}
+
+.text-decoration {
+  text-shadow: 1px 1px 2px #d5d8dc, 0 0 1em #5d6d7e, 0 0 0.2em #ebedef;
+}
+#codesign {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: black;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 5em;
+  text-transform: uppercase;
+}
+
+.header {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: black;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 2.7em;
+  text-transform: uppercase;
+}
+
+.content {
+  color: black;
+  font-family: "Roboto", sans-serif;
+  font-weight: 165;
+  font-size: 1.7em;
+  /*  text-transform: uppercase; */
+}
+
+#line-height {
+  line-height: 1.6;
+}
+
+del {
+  color: darkred;
+}
+
+.dep {
+  list-style-image: url(flash-off-outline.svg);
+  color: darkred;
+}
+
+ul.flash {
+  list-style-image: url(flash-outline.svg);
+  color: black;
+}
+/*
+ion-icon {
+    color: white;
+    font-size: 24px;
+}
+*/
+
+strong {
+  /*    color: #5F9EA0; */
+  color: #009e60;
+}
